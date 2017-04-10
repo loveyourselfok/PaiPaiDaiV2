@@ -22,8 +22,7 @@ int id top 0x7f070003
 int layout dialog_manager 0x7f030000
 int string app_name 0x7f060000
 int style AppBaseTheme 0x7f040000
-int style AppTheme 0x7f040001
-int style Theme_audioDialog 0x7f040002
+int style Theme_audioDialog 0x7f040001
 int[] styleable SwipeLayout { 0x7f010000, 0x7f010001 }
 int styleable SwipeLayout_drag_edge 0
 int styleable SwipeLayout_show_mode 1

@@ -75,10 +75,7 @@ public final class R {
         
          */
         public static final int AppBaseTheme=0x7f040000;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
-        public static final int AppTheme=0x7f040001;
-        public static final int Theme_audioDialog=0x7f040002;
+        public static final int Theme_audioDialog=0x7f040001;
     }
     public static final class styleable {
         /** Attributes that can be used with a SwipeLayout.

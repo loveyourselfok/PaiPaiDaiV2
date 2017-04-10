@@ -44,8 +44,7 @@ public final class R {
     }
     public static final class style {
         public static final int AppBaseTheme = 0x7f040000;
-        public static final int AppTheme = 0x7f040001;
-        public static final int Theme_audioDialog = 0x7f040002;
+        public static final int Theme_audioDialog = 0x7f040001;
     }
     public static final class styleable {
         public static final int[] SwipeLayout = { 0x7f010000, 0x7f010001 };

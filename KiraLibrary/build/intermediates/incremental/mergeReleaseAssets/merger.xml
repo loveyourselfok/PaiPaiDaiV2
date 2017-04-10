@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\PaiPaiDai\KiraLibrary\assets"/><source path="E:\PaiPaiDai\KiraLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\PaiPaiDai\KiraLibrary\build-types\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\PaiPaiDaiV2\KiraLibrary\assets"/><source path="E:\PaiPaiDaiV2\KiraLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\PaiPaiDaiV2\KiraLibrary\build-types\release\assets"/></dataSet></merger>

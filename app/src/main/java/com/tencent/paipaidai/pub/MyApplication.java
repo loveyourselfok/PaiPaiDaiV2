@@ -6,8 +6,6 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.util.Log;
 
-import com.orhanobut.logger.LogLevel;
-import com.orhanobut.logger.Logger;
 import com.tools.CrashLogFilesManager;
 import com.tools.MD5Util;
 import com.tools.UsualTools;
@@ -49,13 +47,13 @@ public class MyApplication extends  Application{
 //			return;
 //		}
 //		refWatcher = LeakCanary.install(this);
-		Logger
-				.init("LOGUTIL")                 // default PRETTYLOGGER or use just init()
-				.methodCount(3)                 // default 2
-//				.hideThreadInfo()               // default shown
-				.logLevel(LogLevel.FULL)        // default LogLevel.FULL
-				.methodOffset(2) ;               // default 0
-//				.logAdapter(new AndroidLogAdapter()); //default AndroidLogAdapter
+//		Logger
+//				.init("LOGUTIL")                 // default PRETTYLOGGER or use just init()
+//				.methodCount(3)                 // default 2
+////				.hideThreadInfo()               // default shown
+//				.logLevel(LogLevel.FULL)        // default LogLevel.FULL
+//				.methodOffset(2) ;               // default 0
+////				.logAdapter(new AndroidLogAdapter()); //default AndroidLogAdapter
 		super.onCreate();
 	}
 

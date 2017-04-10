@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\flashlight_auto.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\flashlight_auto.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_tabkepicture_selector.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\btn_tabkepicture_selector.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_filenum.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_change.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\camera_change.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refresh_arrow_down.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\refresh_arrow_down.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\preview_up.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\preview_up.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cover.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\cover.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_tabkepicture_selectorpress.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\btn_tabkepicture_selectorpress.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_album_back.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\choose.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\choose.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\preview_down.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\preview_down.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\circle.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-hdpi\\circle.png"
+    }
+]

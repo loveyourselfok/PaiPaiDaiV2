@@ -2,31 +2,27 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tencent.paipaidai">
 
-    <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.tencent.paipaidai">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="魔拍宝"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        >
+        <activity android:name=".activity.LoginActivity">
 
-        <uses-permission android:name="android.permission.INTERNET" />
-        <application
-            android:allowBackup="true"
-            android:icon="@mipmap/ic_launcher"
-            android:label="魔拍宝"
-            android:supportsRtl="true"
-            android:theme="@android:style/Theme.Light.NoTitleBar">
-            <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            </activity>
-            <activity android:name="com.tencent.paipaidai.activity.NewVersionLoanListActivity">
-                <intent-filter>
-                    <action android:name="android.intent.action.MAIN" />
-
-                    <category android:name="android.intent.category.LAUNCHER" />
-                </intent-filter>
-            </activity>
-            <activity android:name="com.tencent.paipaidai.activity.NewVersionLoanListDetailActivity">
-
-            </activity>
-        </application>
-
-    </manifest>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.MainActivity"></activity>
+        <activity android:name=".activity.NewVersionLoanListActivity">
+        </activity>
+        <activity android:name=".activity.NewVersionLoanListDetailActivity"></activity>
+        <activity android:name=".activity.RegisterActivity"/>
+    </application>
 
 </manifest>

@@ -1,5 +1,5 @@
 <resources
-    
+
     >
 
     <string name="app_name" translatable="false">汇客通V2</string>
@@ -41,7 +41,8 @@
    付房源方应收佣金；
 \n4、房源方不直接向买房客户收取交易佣金，买房客户佣金由
    客源方代为收取；
-\n5、房源方有责任并免费协助客源方办理所有房产过户手续。</string>
+\n5、房源方有责任并免费协助客源方办理所有房产过户手续。
+</string>
     <string name="loading_word" translatable="false">汇房超人正在努力加载中...</string>
 
     <string name="report_client_tip">重要提示：
@@ -52,4 +53,43 @@
 \n5、推荐房源、客源通过托管经纪人成交均为有效成交均可获得奖励，通过其他渠道成交为无效成交。
 \n6、发现推荐房源、客源通过托管经纪人成交，而托管经纪人隐瞒成交，提供推荐客户成交证明，汇客通平台先行赔付推荐房源、客源奖励，并给予推荐奖励双倍举报奖金。
     </string>
+    //暂时
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="go">login</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+
+    <string name="action_settings">setting</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main_bottom_navi">MainActivityBottomNavi</string>
+    <string name="title_home">Home</string>
+    <string name="title_set">Setting</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

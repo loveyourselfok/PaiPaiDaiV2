@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\preview_btn.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\preview_btn.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loading_progress_bar.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_bg_top.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\indicator_bg_bottom.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\buttonselector.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\buttonselector.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_pic_choose_selector.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_albumbackground.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDaiV2\\KiraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\progressbar_bg.xml",
+        "source": "E:\\PaiPaiDaiV2\\KiraLibrary\\res\\drawable-mdpi\\progressbar_bg.xml"
+    }
+]

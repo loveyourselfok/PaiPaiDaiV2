@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\c732c9c262b308c4b16415d590e0520e4c310a34\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\c66a4c658f669cc144e5553afbf65b4d38247298\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\6af3306d1b7235f9ad3468d4f334c6048dc079b1\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\8ffd6d428f7238b904602030b00c59ec0149d62a\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\a64dc7474254de785ab8fa5d46f02eba1889efb9\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\HWC\.android\build-cache\1f66303b74064c0d41c828edfd1eabfc26fec8b7\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\PaiPaiDaiV2\KiraLibrary\res"/><source path="E:\PaiPaiDaiV2\KiraLibrary\build\generated\res\rs\release"/><source path="E:\PaiPaiDaiV2\KiraLibrary\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\PaiPaiDaiV2\KiraLibrary\build-types\release\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\c732c9c262b308c4b16415d590e0520e4c310a34\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\c66a4c658f669cc144e5553afbf65b4d38247298\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\6af3306d1b7235f9ad3468d4f334c6048dc079b1\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\8ffd6d428f7238b904602030b00c59ec0149d62a\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\a64dc7474254de785ab8fa5d46f02eba1889efb9\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\HWC\.android\build-cache\1f66303b74064c0d41c828edfd1eabfc26fec8b7\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\PaiPaiDaiV2\KiraLibrary\res"><file name="btn_tabkepicture_selector" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\btn_tabkepicture_selector.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_tabkepicture_selectorpress" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\btn_tabkepicture_selectorpress.png" qualifiers="hdpi-v4" type="drawable"/><file name="camera_change" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\camera_change.png" qualifiers="hdpi-v4" type="drawable"/><file name="choose" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\choose.png" qualifiers="hdpi-v4" type="drawable"/><file name="circle" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\circle.png" qualifiers="hdpi-v4" type="drawable"/><file name="cover" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\cover.png" qualifiers="hdpi-v4" type="drawable"/><file name="flashlight_auto" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\flashlight_auto.png" qualifiers="hdpi-v4" type="drawable"/><file name="plugin_camera_album_back" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\plugin_camera_album_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="plugin_camera_filenum" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\plugin_camera_filenum.png" qualifiers="hdpi-v4" type="drawable"/><file name="plugin_camera_no_pictures" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\plugin_camera_no_pictures.png" qualifiers="hdpi-v4" type="drawable"/><file name="preview_down" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\preview_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="preview_up" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\preview_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="refresh_arrow_down" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\refresh_arrow_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="xlistview_arrow" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-hdpi\xlistview_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="buttonselector" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\buttonselector.xml" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_bg_bottom" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\indicator_bg_bottom.xml" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_bg_top" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\indicator_bg_top.xml" qualifiers="mdpi-v4" type="drawable"/><file name="loading_progress_bar" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\loading_progress_bar.xml" qualifiers="mdpi-v4" type="drawable"/><file name="plugin_camera_albumbackground" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\plugin_camera_albumbackground.xml" qualifiers="mdpi-v4" type="drawable"/><file name="plugin_camera_pic_choose_selector" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\plugin_camera_pic_choose_selector.xml" qualifiers="mdpi-v4" type="drawable"/><file name="preview_btn" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\preview_btn.xml" qualifiers="mdpi-v4" type="drawable"/><file name="progressbar_bg" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-mdpi\progressbar_bg.xml" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\PaiPaiDaiV2\KiraLibrary\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_camera" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\activity_camera.xml" qualifiers="" type="layout"/><file name="adapter_album_gridview" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\adapter_album_gridview.xml" qualifiers="" type="layout"/><file name="adapter_folder" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\adapter_folder.xml" qualifiers="" type="layout"/><file name="camera_item" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\camera_item.xml" qualifiers="" type="layout"/><file name="header" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\header.xml" qualifiers="" type="layout"/><file name="notification_item" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\notification_item.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\pull_to_refresh_header.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="refresh_top_item" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\refresh_top_item.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="E:\PaiPaiDaiV2\KiraLibrary\res\layout\xlistview_header.xml" qualifiers="" type="layout"/><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_attrs.xml" qualifiers=""><declare-styleable name="ViewFlow">
+        <attr format="integer" name="sidebuffer"/>
+    </declare-styleable><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="roundedimageview">
+        <attr format="dimension" name="border_thickness"/>
+        <attr format="color" name="border_inside_color"/>
+        <attr format="color" name="border_outside_color"/>
+    </declare-styleable><declare-styleable name="CircleFlowIndicator">
+        <attr format="color" name="activeColor"/>
+        <attr format="color" name="inactiveColor"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="boolean" name="centered"/>
+        <attr format="integer" name="fadeOut"/>
+        <attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr format="dimension" name="circleSeparation"/>
+        <attr format="dimension" name="activeRadius"/>
+    </declare-styleable></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_color.xml" qualifiers=""><color name="apple_grey">#656565</color><color name="none_color">#00000000</color><color name="hint_grey">#999999</color><color name="low_grey">#f9f9f9</color><color name="kuang_grey">#e3e3e3</color><color name="text_black">#333333</color><color name="theme_orange">#FD7801</color><color name="rose_red">#E82654</color><color name="sky_blue">#3CB2E2</color><color name="white">#ffffff</color></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_dialog_styles.xml" qualifiers=""><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/black</item>
+        <item name="android:windowBackground">@null</item>
+    </style></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="drop_down_list_header_padding_top">12dp</dimen><dimen name="drop_down_list_footer_button_height">48dp</dimen><dimen name="drop_down_list_footer_progress_bar_height">36dp</dimen><dimen name="drop_down_list_footer_button_margin_left">8dp</dimen><dimen name="drop_down_list_header_progress_bar_height">36dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="ui_10_dip">10dip</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="drop_down_list_header_release_min_distance">20dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="drop_down_list_header_padding_bottom">15dp</dimen></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_ids.xml" qualifiers=""><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="gridview" type="id"/></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\kira_progress_styles.xml" qualifiers=""><style name="ProgressBarHorizontal_color" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/loading_progress_bar</item>
+        <item name="android:minHeight">2dip</item>
+        <item name="android:maxHeight">2dip</item>
+    </style></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">KiraLibrary</string></file><file path="E:\PaiPaiDaiV2\KiraLibrary\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\PaiPaiDaiV2\KiraLibrary\build\generated\res\rs\release"/><source path="E:\PaiPaiDaiV2\KiraLibrary\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\PaiPaiDaiV2\KiraLibrary\build-types\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable><declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable><declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable></configuration></mergedItems></merger>
