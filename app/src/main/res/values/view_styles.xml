@@ -1,0 +1,85 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="view_orange_short">
+        <item name="android:layout_height">15dp</item>
+        <item name="android:layout_width">2dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@color/theme_orange</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+
+    <style name="view_estate_detail_bold_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/theme_grey_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">7dp</item>
+    </style>
+
+    <style name="view_client_img">
+        <item name="android:layout_width">55dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="view_client_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="view_orange_btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/orange_roung_kuang</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="view_sell_text">
+        <item name="android:layout_width">15dp</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/green_round_kuang</item>
+    </style>
+
+    <style name="style_message_code">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/theme_orange</item>
+        <item name="android:text">获取验证码</item>
+        <item name="android:background">@drawable/orange_round_empty_kuang</item>
+    </style>
+
+    <style name="view_right_arrow">
+        <item name="android:layout_width">15dp</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@drawable/unfold_right</item>
+    </style>
+
+    <style name="view_second_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">35dp</item>
+    </style>
+
+    <style name="my_theme_style">
+        <item name="android:clipToPadding">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+</resources>

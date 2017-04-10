@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+
+    android:background="@color/theme_orange"
+
+    >
+
+    <TextView
+        android:id="@+id/tv_low_risk"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@color/theme_white"
+        android:text="低风险" />
+    <View
+        style="@style/style_grey_vertical_line_0_2dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_high_earnings"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/theme_white"
+        android:textSize="15sp"
+        android:text="高收益" />
+    <View
+        style="@style/style_grey_vertical_line_0_2dp"
+        />
+    <TextView
+        android:id="@+id/tv_middle_risk"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:textColor="@color/theme_white"
+        android:textSize="15sp"
+        android:layout_weight="1"
+        android:text="风险中性" />
+    <View
+        style="@style/style_grey_vertical_line_0_2dp"
+        />
+    <TextView
+        android:id="@+id/tv_soon_back"
+        android:layout_width="0dp"
+        android:textColor="@color/theme_white"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:layout_weight="1"
+        android:text="资金快速回笼" />
+</LinearLayout>

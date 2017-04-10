@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 57,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 55,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 55,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 55,
+                        "endOffset": 70
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\values\\record_dialog_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 91,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 495
+                    }
+                }
+            }
+        ]
+    }
+]

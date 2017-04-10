@@ -1,0 +1,216 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+
+
+
+    -->
+
+
+
+
+    <style name="style_edit_kuang_grey">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/hint_grey</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+
+    <style name="style_edit_kuang_white">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+
+    <style name="style_grey_horizontal_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/kuang_grey</item>
+    </style>
+    <style name="style_orange_horizontal_line">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">1dp</item>
+    <item name="android:background">@color/theme_orange</item>
+</style>
+
+    <style name="style_center_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/kuang_grey</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="style_bottom_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/kuang_grey</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+    <style name="style_grey_vertical_line">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/kuang_grey</item>
+    </style>
+
+    <style name="style_grey_horizontal_line_0_2dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.2dp</item>
+        <item name="android:background">@color/kuang_grey</item>
+    </style>
+
+    <style name="style_grey_vertical_line_0_2dp">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/theme_white</item>
+    </style>
+
+    <style name="style_textview_10sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_12sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_13sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_11sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_14sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_15sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_16sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_18sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_textview_20sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="style_editText_12sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/hint_grey</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="style_editText_14sp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/hint_grey</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:inputType">textUri</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="style_20dp_img">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="noAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+
+    <style name="style_list_view">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:divider">@null</item>
+        <item name="android:listSelector">#00ffffff</item>
+    </style>
+
+    <style name="Theme.CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置title -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置边框 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowFullscreen">true</item>
+        <!-- 设置全屏 -->
+    </style>
+    <style name="ShowCommonDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v1.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\v1.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_to_short.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\voice_to_short.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_loading_bg.9.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\dialog_loading_bg.9.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recorder.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\recorder.png"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    }
+]

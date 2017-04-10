@@ -1,0 +1,14 @@
+package com.tencent.paipaidai.pub;
+
+/**
+ * Created by HWC on 2017/4/8.
+ */
+
+public class MConfig {
+    // 服务端公钥
+    public static final String serverPublicKey="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDj9ReXo9oA8TJ0692qH4vTGgfsEXnlCPMHQDs8I1fM9HChRKiQrcl/Wcmhex0JcdgHcmWX+f7XgbCxx797AnV62w0VO37H99FpnjfSwI6uRGT2s/qEwgRvHB73OIvFlgI6sqolU1yujtvntftHntJhYAYws1Tllk7HgSUDntbRwwIDAQAB";
+    // 客户端私钥
+    public static final  String clientPrivateKey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAOP1F5ej2gDxMnTr3aofi9MaB+wReeUI8wdAOzwjV8z0cKFEqJCtyX9ZyaF7HQlx2AdyZZf5/teBsLHHv3sCdXrbDRU7fsf30WmeN9LAjq5EZPaz+oTCBG8cHvc4i8WWAjqyqiVTXK6O2+e1+0ee0mFgBjCzVOWWTseBJQOe1tHDAgMBAAECgYA8ACz/iu88xD/Fqrejqb4CCJ4BMvBkqqBdTjjJMXxQxB5JNGsx+axJyvZZfLA95is4epHnGLRNQSOjB7KMzC7jckHopPfh+5EIqm0nJgiqX7inS9+trzm+8yTPJzrOUUsA722MV/R9wvfmGvRN+2pHMC/V4m+3ZGUd9SiwrrZRMQJBAPgF6J2SJvEH+yLDPGBhKuMbXPewqB1qrC4ifqv8S6e8dI5QC7IUpB8IHloyxZrrgt7idodugj7Ck1+6UYo5iOcCQQDrSfkjAb91NyEzVTiBmf3l6tfZsCZT74mSismjLZg0PbodXqUMvpduK5FHNUaCOJKLIH2tYAYkOKz1XD5GBMjFAkBV8v48dKRoDKL71fp7T9Dj6NybvS1VHF1Uk4GgKgsxsn4Vvyl+aebCFjcmfMe7uvecM5BtuF8MTrNxjgipxOxrAkEA4rKbQIdmmOFNM9BgaT6dyvDCmBOIWkbpHjBqprY/d9YhhDq0e9sGvDdt+lXyYXVwfGwJqwph4HRa8Oy3c28YoQJAYPfFO0OtyDVezT52pMyAyjfFAHKGab5SrA/xfPwMIP2YXrS0mXmL63dh1ngMh9RBjTyJZ/PpwrNEDJYf4ZJymQ==";
+    // 应用ID
+    public static final String appId="2b170885d23b48af917eeeb3ea8c03e9";
+}

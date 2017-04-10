@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 57,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 57,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 55,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 55,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 55,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 55,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1505
+                    }
+                }
+            }
+        ]
+    }
+]

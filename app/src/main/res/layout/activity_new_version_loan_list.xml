@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <include
+        android:id="@+id/layout_type_selection"
+        layout="@layout/layout_type_selection" />
+
+    <com.view.XListView.XListView
+        android:id="@+id/list_view"
+        style="@style/style_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_type_selection"></com.view.XListView.XListView>
+</LinearLayout>
