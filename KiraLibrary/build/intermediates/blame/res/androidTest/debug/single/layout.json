@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\refresh_top_item.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\refresh_top_item.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_item.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\camera_item.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_item.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\header.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_folder.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\adapter_folder.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_album_gridview.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\adapter_album_gridview.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_camera.xml",
+        "source": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_camera.xml"
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "outputFile": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 43,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 44,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 44,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 42,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 46,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 46,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 42,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 42,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 42,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 42,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 44,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 44,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 46,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 46,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 39,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 39,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3045,
+                    "endColumn": 57,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3045,
+                        "endColumn": 57,
+                        "endOffset": 3098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endColumn": 55,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3103,
+                        "endColumn": 55,
+                        "endOffset": 3154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 66,
+                    "endOffset": 3221
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3159,
+                        "endColumn": 66,
+                        "endOffset": 3221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3226,
+                    "endColumn": 70,
+                    "endOffset": 3292
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3226,
+                        "endColumn": 70,
+                        "endOffset": 3292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3297,
+                    "endColumn": 72,
+                    "endOffset": 3365
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3297,
+                        "endColumn": 72,
+                        "endOffset": 3365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3370,
+                    "endColumn": 67,
+                    "endOffset": 3433
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3370,
+                        "endColumn": 67,
+                        "endOffset": 3433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3438,
+                    "endColumn": 64,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3438,
+                        "endColumn": 64,
+                        "endOffset": 3498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 72,
+                    "endOffset": 3571
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3503,
+                        "endColumn": 72,
+                        "endOffset": 3571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3576,
+                    "endColumn": 73,
+                    "endOffset": 3645
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3576,
+                        "endColumn": 73,
+                        "endOffset": 3645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3650,
+                    "endColumn": 63,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3650,
+                        "endColumn": 63,
+                        "endOffset": 3709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endColumn": 63,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3714,
+                        "endColumn": 63,
+                        "endOffset": 3773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 54,
+                    "endOffset": 3828
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3778,
+                        "endColumn": 54,
+                        "endOffset": 3828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3833,
+                    "endColumn": 56,
+                    "endOffset": 3885
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3833,
+                        "endColumn": 56,
+                        "endOffset": 3885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3890,
+                    "endColumn": 54,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3890,
+                        "endColumn": 54,
+                        "endOffset": 3940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endColumn": 41,
+                    "endOffset": 3982
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3945,
+                        "endColumn": 41,
+                        "endOffset": 3982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3987,
+                    "endColumn": 37,
+                    "endOffset": 4020
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3987,
+                        "endColumn": 37,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4025,
+                    "endColumn": 39,
+                    "endOffset": 4060
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4025,
+                        "endColumn": 39,
+                        "endOffset": 4060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4065,
+                    "endColumn": 36,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4065,
+                        "endColumn": 36,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endColumn": 52,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4102,
+                        "endColumn": 52,
+                        "endOffset": 4150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 48,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4155,
+                        "endColumn": 48,
+                        "endOffset": 4199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endColumn": 52,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4204,
+                        "endColumn": 52,
+                        "endOffset": 4252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4605
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4257,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 4605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4610,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5037
+                },
+                "from": {
+                    "file": "E:\\PaiPaiDai\\KiraLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4610,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 5037
+                    }
+                }
+            }
+        ]
+    }
+]
