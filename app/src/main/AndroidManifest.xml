@@ -21,9 +21,10 @@
 
                     <category android:name="android.intent.category.LAUNCHER" />
                 </intent-filter>
-            </activity><activity android:name="com.tencent.paipaidai.activity.NewVersionLoanListDetailActivity">
+            </activity>
+            <activity android:name="com.tencent.paipaidai.activity.NewVersionLoanListDetailActivity">
 
-        </activity>
+            </activity>
         </application>
 
     </manifest>
