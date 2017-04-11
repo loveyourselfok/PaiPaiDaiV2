@@ -111,8 +111,6 @@ public class NewVersionLoanListDetailActivity extends Activity implements Settin
             ViewTools.setStringToTextView(this, R.id.text6, "年龄：" + age);
             ViewTools.setStringToTextView(this, R.id.text7, "性别：" + gender);
             ViewTools.setStringToTextView(this, R.id.text8, "发起时间：" + RegisterTime);
-            ViewTools.setStringToTextView(this, R.id.text9, "首次借款时间：" + FistBidTime);
-            ViewTools.setStringToTextView(this, R.id.text10, "最近一次借款时间：" + LastBidTime);
             ViewTools.setStringToTextView(this, R.id.text11, "手机认证：" + (PhoneValidate == 0 ? "未认证" : "已认证"));
             ViewTools.setStringToTextView(this, R.id.text12, "户口认证：" + (NciicIdentityCheck == 0 ? "未认证" : "已认证"));
             ViewTools.setStringToTextView(this, R.id.text13, "视频认证：" + (VideoValidate == 0 ? "未认证" : "已认证"));

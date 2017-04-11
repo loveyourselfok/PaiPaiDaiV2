@@ -105,8 +105,8 @@
                     />
             </LinearLayout>
             <View
-                android:paddingLeft="8dp"
-                android:paddingRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
                 style="@style/style_orange_horizontal_line"
                 android:layout_alignParentBottom="true" />
             <LinearLayout
@@ -139,36 +139,7 @@
                 android:layout_marginRight="8dp"
                 style="@style/style_orange_horizontal_line"
                 android:layout_alignParentBottom="true" />
-            <LinearLayout
-                android:paddingLeft="8dp"
-                android:paddingRight="8dp"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:orientation="horizontal"
-                >
 
-                <TextView
-                    android:text=""
-                    android:gravity="center_vertical"
-                    android:id="@+id/text9"
-                    android:layout_width="0dp"
-                    android:layout_height="40dp"
-                    android:layout_weight="1" />
-
-                <TextView
-                    android:text=""
-                    android:gravity="center_vertical"
-                    android:layout_width="0dp"
-                    android:layout_weight="1"
-                    android:layout_height="40dp"
-                    android:id="@+id/text10"
-                    />
-            </LinearLayout>
-            <View
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
-                style="@style/style_orange_horizontal_line"
-                android:layout_alignParentBottom="true" />
             <LinearLayout
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
