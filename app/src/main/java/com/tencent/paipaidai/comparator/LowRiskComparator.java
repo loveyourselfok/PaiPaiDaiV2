@@ -39,7 +39,6 @@ public class LowRiskComparator implements Comparator<NewVersionLoanListDetailBea
         if ((fistBidTime==null||"".equals(fistBidTime))&&(fistBidTime2==null||"".equals(fistBidTime2))){
             resultCode=0;
         }else if (fistBidTime!=null&&fistBidTime2==null){
-
             resultCode=1;
         }else if (fistBidTime2!=null&&fistBidTime==null){
             resultCode=-1;

@@ -3,12 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KiraLibrary/KiraLibrary.iml" filepath="$PROJECT_DIR$/KiraLibrary/KiraLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KiraLibrary/KiraLibrary.iml" filepath="$PROJECT_DIR$/KiraLibrary/KiraLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaiPaiDai.iml" filepath="$PROJECT_DIR$/PaiPaiDai.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaiPaiDaiV2.iml" filepath="$PROJECT_DIR$/PaiPaiDaiV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/specialViewLibrary/specialViewLibrary.iml" filepath="$PROJECT_DIR$/specialViewLibrary/specialViewLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/specialViewLibrary/specialViewLibrary.iml" filepath="$PROJECT_DIR$/specialViewLibrary/specialViewLibrary.iml" />
     </modules>
   </component>

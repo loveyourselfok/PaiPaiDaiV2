@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_recordnormal.xml",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable\\button_recordnormal.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_recording.xml",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\src\\main\\res\\drawable\\button_recording.xml"
+    },
+    {
         "merged": "E:\\PaiPaiDaiV2\\specialViewLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_recordnormal.xml",
         "source": "E:\\PaiPaiDaiV2\\specialViewLibrary\\src\\main\\res\\drawable\\button_recordnormal.xml"
     },

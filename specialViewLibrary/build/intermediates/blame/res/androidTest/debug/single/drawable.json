@@ -1,10 +1,18 @@
 [
     {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_recording.xml",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_recording.xml"
+    },
+    {
         "merged": "E:\\PaiPaiDaiV2\\specialViewLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_recordnormal.xml",
         "source": "E:\\PaiPaiDaiV2\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_recordnormal.xml"
     },
     {
         "merged": "E:\\PaiPaiDaiV2\\specialViewLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_recording.xml",
         "source": "E:\\PaiPaiDaiV2\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_recording.xml"
+    },
+    {
+        "merged": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_recordnormal.xml",
+        "source": "E:\\PaiPaiDai\\specialViewLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_recordnormal.xml"
     }
 ]

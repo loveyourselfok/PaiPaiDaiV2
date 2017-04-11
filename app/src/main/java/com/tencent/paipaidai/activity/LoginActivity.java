@@ -19,6 +19,7 @@ import android.widget.Toast;
 import com.tencent.paipaidai.R;
 import com.tencent.paipaidai.interfaces.OnSendDynamicCodeListener;
 import com.tencent.paipaidai.utils.AccountHttpUtil;
+import com.tools.UsualTools;
 
 /**
  * Created by HWC on 2017/4/10.
@@ -96,8 +97,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         String password = etPassword.getText().toString().trim();
 
         if (TextUtils.isEmpty(userName) || TextUtils.isEmpty(password)) {
-            Toast.makeText(this, "请完整输入用户名和密码", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "请输入用户名和密码", Toast.LENGTH_SHORT).show();
             return;
         }
+        UsualTools.showShortToast(this,"登录成功！");
+        UsualTools.jumpActivity(this,NewVersionLoanListActivity.class);
     }
 }
